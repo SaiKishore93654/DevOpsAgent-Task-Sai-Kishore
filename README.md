@@ -27,7 +27,7 @@ This project is an intelligent agent that monitors **CPU usage**, detects **anom
 
 ##  Prerequisites
 
-- Python 3.8+
+- Python 
 - Linux-based system (Ubuntu/Debian preferred)
 - `Ollama` installed **OR** OpenAI API Key
 - Optional: Slack webhook
